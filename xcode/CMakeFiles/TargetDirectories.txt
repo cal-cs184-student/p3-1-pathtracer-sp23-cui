@@ -1,0 +1,17 @@
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CMakeFiles/pt31.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CMakeFiles/pathtracer.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CMakeFiles/install.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CMakeFiles/ALL_BUILD.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CMakeFiles/ZERO_CHECK.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/CMakeFiles/CGL.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/CMakeFiles/install.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/CMakeFiles/ALL_BUILD.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/CMakeFiles/ZERO_CHECK.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/deps/glew/CMakeFiles/glew.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/deps/glew/CMakeFiles/install.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/deps/glfw/CMakeFiles/uninstall.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/deps/glfw/CMakeFiles/install.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/deps/glfw/CMakeFiles/ALL_BUILD.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/deps/glfw/CMakeFiles/ZERO_CHECK.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/deps/glfw/src/CMakeFiles/glfw.dir
+/Users/cuiboy/Desktop/code/berkeley/classes/cs184/p3-1-pathtracer-sp23-cui/xcode/CGL/deps/glfw/src/CMakeFiles/install.dir
